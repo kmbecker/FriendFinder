@@ -1,0 +1,29 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "friendfinder",
+  "main": "server.js",
+  "dependencies": {
+    "ejs": "2.4.1",
+    "express": "^4.14.0",
+    "body-parser": "^1.15.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": null,
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmbecker/FriendFinder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmbecker/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/kmbecker/FriendFinder#readme",
+  "engines": {
+    "node": "6.2.2"
+  }
+}
